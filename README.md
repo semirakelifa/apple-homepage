@@ -1,3 +1,3 @@
 # apple-homepage clone by Semira K.
 
-HTML5, CSS, & Bootstrap
+HTML5, CSS, Bootstrap, Media query
